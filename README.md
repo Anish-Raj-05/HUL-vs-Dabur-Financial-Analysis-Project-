@@ -1,6 +1,6 @@
 # HUL-vs-Dabur-Financial-Analysis-Project
 
-Project Overview:-
+**Project Overview**:-
 This project is a comprehensive financial analysis comparing Hindustan Unilever Ltd (HUL) and Dabur India Ltd over the period FY2019 to FY2023, using actual reported financial data. It demonstrates real-world finance capabilities across:
 
 Ratio analysis (Profitability, Efficiency, Solvency, Liquidity)
@@ -17,14 +17,14 @@ Excel-based financial structuring, transformations, and DAX modeling
 
 The project replicates the depth of analysis found in Equity Research, Corporate Finance, and FP&A roles, while showcasing clean structuring, automation-ready Excel models, and insight-driven storytelling.
 
-Project Objectives:-
+**Project Objectives**:-
 Extract, clean, and standardize real-world financial data from HUL and Dabur’s consolidated annual reports
 
 Perform detailed ratio analysis across five years
 
 Build dynamic dashboards in Power BI for visual storytelling
 
-Key Features
+**Key Features**:-
 ✅ Excel Financial Data Model
 Cleaned and structured raw financials (P&L, Balance Sheet, Cash Flow)
 
